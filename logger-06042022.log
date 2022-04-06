@@ -1,0 +1,411 @@
+2022-04--06 09:32:46 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:32:46 [main] INFO  by.petushokilya.main.Main -Truck
+2022-04--06 09:36:27 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:36:27 [main] INFO  by.petushokilya.main.Main -Truck 1,stateNew
+2022-04--06 09:37:26 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:37:26 [main] INFO  by.petushokilya.main.Main -Truck number1, stateNew
+2022-04--06 09:37:41 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:37:41 [main] INFO  by.petushokilya.main.Main -Truck number1, state New
+2022-04--06 09:51:00 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:51:00 [main] INFO  by.petushokilya.main.Main -Truck number1, state New
+2022-04--06 09:52:01 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 09:52:01 [main] INFO  by.petushokilya.main.Main -Truck number1, state New
+2022-04--06 09:52:01 [Thread-0] INFO  by.petushokilya.main.Main -Truck 1,state Runnable
+2022-04--06 10:02:37 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:02:37 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:02:37 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:02:37 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:02:44 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:02:44 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:02:44 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:02:44 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to unload.
+2022-04--06 10:02:58 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:02:58 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:02:58 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:02:58 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:09:10 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:09:10 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:09:10 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:09:10 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to unload.
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 10:12:13 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to load.
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 10:12:13 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 10:12:13 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 10:12:13 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:12:13 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to load.
+2022-04--06 10:12:13 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to unload.
+2022-04--06 10:12:13 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to unload.
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 10:12:13 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to unload.
+2022-04--06 10:12:13 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 10:12:13 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to load.
+2022-04--06 10:12:13 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 10:12:13 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to unload.
+2022-04--06 10:12:13 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 10:12:13 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to unload.
+2022-04--06 10:12:16 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 10:12:16 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to unload.
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 10:14:35 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 10:14:35 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to unload.
+2022-04--06 10:14:35 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to load.
+2022-04--06 10:14:35 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:14:35 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 10:14:35 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to load.
+2022-04--06 10:14:35 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to load.
+2022-04--06 10:14:35 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 10:14:35 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to unload.
+2022-04--06 10:14:35 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 10:14:35 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to unload.
+2022-04--06 10:14:35 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 10:14:35 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 10:14:35 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to load.
+2022-04--06 10:14:35 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 10:14:35 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to load.
+2022-04--06 10:14:38 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 10:14:38 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 10:14:38 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 10:14:38 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to load.
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 10:14:42 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to unload.
+2022-04--06 10:14:42 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to unload.
+2022-04--06 10:14:42 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to unload.
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 10:14:42 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 10:14:42 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to load.
+2022-04--06 10:14:42 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 10:14:42 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to unload.
+2022-04--06 10:14:42 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 10:14:42 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to load.
+2022-04--06 10:14:42 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 10:14:42 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 10:14:42 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 10:14:42 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to unload.
+2022-04--06 10:14:42 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to unload.
+2022-04--06 10:14:42 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 10:14:43 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to load.
+2022-04--06 10:14:45 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 10:14:45 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 10:14:45 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 10:14:45 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 10:14:45 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 10:14:45 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 10:14:45 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to unload.
+2022-04--06 10:14:46 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 10:14:46 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 10:14:46 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 10:14:46 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 10:14:46 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 10:14:49 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck 11,state Terminate
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 10:24:56 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 10:24:56 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to load.
+2022-04--06 10:24:56 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to load.
+2022-04--06 10:24:56 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to unload.
+2022-04--06 10:24:56 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 10:24:56 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to load.
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 10:24:56 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to load.
+2022-04--06 10:24:56 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to unload.
+2022-04--06 10:24:56 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 10:24:56 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to unload.
+2022-04--06 10:24:56 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 10:24:56 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to load.
+2022-04--06 10:24:56 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to unload.
+2022-04--06 10:24:56 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:24:59 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 10:24:59 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 10:24:59 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 10:24:59 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to unload.
+2022-04--06 10:25:02 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck 11,state Terminate
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 10:25:54 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 10:25:54 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 10:25:54 [pool-2-thread-3] INFO  by.petushokilya.entity.Base -Truck 4,state Waiting
+2022-04--06 10:25:54 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 10:25:54 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to load.
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 10:25:54 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to load.
+2022-04--06 10:25:54 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 10:25:54 [pool-2-thread-4] INFO  by.petushokilya.entity.Base -Truck 5,state Waiting
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 10:25:54 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 10:25:54 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 10:25:54 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 10:25:54 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 10:25:54 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 10:25:54 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 10:25:54 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:25:57 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 10:25:57 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 10:25:57 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 10:25:57 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 10:25:57 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 10:25:57 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to load.
+2022-04--06 10:25:57 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to unload.
+2022-04--06 10:25:57 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 10:25:57 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 10:25:57 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 10:25:57 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 10:26:00 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 10:26:00 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 10:26:00 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 10:26:00 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to unload.
+2022-04--06 10:26:00 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 10:26:00 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 10:26:00 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 10:26:00 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to unload.
+2022-04--06 10:26:00 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to unload.
+2022-04--06 10:26:00 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:26:03 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 10:26:03 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 10:26:03 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 10:26:03 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 10:26:03 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 10:26:03 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to unload.
+2022-04--06 10:26:03 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 10:26:03 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to unload.
+2022-04--06 10:26:06 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck 11,state Terminate
+2022-04--06 10:26:06 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 18:16:36 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 18:16:36 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 18:16:36 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 18:16:36 [pool-2-thread-4] INFO  by.petushokilya.entity.Base -Truck 5,state Waiting
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 18:16:36 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to load.
+2022-04--06 18:16:36 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to load.
+2022-04--06 18:16:36 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to unload.
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 18:16:36 [pool-2-thread-2] INFO  by.petushokilya.entity.Base -Truck 3,state Waiting
+2022-04--06 18:16:36 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 18:16:36 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 18:16:36 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:16:36 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:16:36 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:16:36 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:16:36 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 18:16:39 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 18:16:39 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 18:16:39 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 18:16:39 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 18:16:39 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to unload.
+2022-04--06 18:16:39 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to unload.
+2022-04--06 18:16:39 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 18:16:39 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 18:16:39 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:16:39 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:16:42 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 18:16:42 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 18:16:42 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 18:16:42 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 18:16:42 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:16:42 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 18:16:42 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 18:16:42 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to load.
+2022-04--06 18:16:42 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to unload.
+2022-04--06 18:16:42 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:16:42 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to load.
+2022-04--06 18:16:45 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 18:16:45 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 18:16:45 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 18:16:45 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:16:45 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 18:16:45 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to unload.
+2022-04--06 18:16:45 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 18:16:45 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to load.
+2022-04--06 18:16:48 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck 11,state Terminate
+2022-04--06 18:16:48 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.main.Main -Start Thread
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 1, state New
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 2, state New
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 3, state New
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 4, state New
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 5, state New
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 6, state New
+2022-04--06 18:17:05 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number1,state Runnable
+2022-04--06 18:17:05 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number2,state Runnable
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 7, state New
+2022-04--06 18:17:05 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number3,state Runnable
+2022-04--06 18:17:05 [pool-2-thread-3] INFO  by.petushokilya.entity.Base -Truck 4,state Waiting
+2022-04--06 18:17:05 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck number 1 come to unload.
+2022-04--06 18:17:05 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck number 2 come to unload.
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 8, state New
+2022-04--06 18:17:05 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck number 3 come to load.
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 9, state New
+2022-04--06 18:17:05 [pool-2-thread-4] INFO  by.petushokilya.entity.Base -Truck 5,state Waiting
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 10, state New
+2022-04--06 18:17:05 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 18:17:05 [main] INFO  by.petushokilya.entity.Truck -Truck number 11, state New
+2022-04--06 18:17:05 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:17:05 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:17:05 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:17:05 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:05 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-2] INFO  by.petushokilya.entity.Truck -Truck 3,state Terminate
+2022-04--06 18:17:08 [Thread-0] INFO  by.petushokilya.entity.Truck -Truck 1,state Terminate
+2022-04--06 18:17:08 [pool-2-thread-1] INFO  by.petushokilya.entity.Truck -Truck 2,state Terminate
+2022-04--06 18:17:08 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number4,state Runnable
+2022-04--06 18:17:08 [pool-2-thread-4] INFO  by.petushokilya.entity.Base -Truck 5,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck number 4 come to unload.
+2022-04--06 18:17:08 [pool-2-thread-5] INFO  by.petushokilya.entity.Base -Truck 6,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number5,state Runnable
+2022-04--06 18:17:08 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number6,state Runnable
+2022-04--06 18:17:08 [pool-2-thread-6] INFO  by.petushokilya.entity.Base -Truck 7,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck number 5 come to load.
+2022-04--06 18:17:08 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck number 6 come to load.
+2022-04--06 18:17:08 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:08 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-3] INFO  by.petushokilya.entity.Truck -Truck 4,state Terminate
+2022-04--06 18:17:11 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number7,state Runnable
+2022-04--06 18:17:11 [pool-2-thread-7] INFO  by.petushokilya.entity.Base -Truck 8,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck number 7 come to load.
+2022-04--06 18:17:11 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-5] INFO  by.petushokilya.entity.Truck -Truck 6,state Terminate
+2022-04--06 18:17:11 [pool-2-thread-4] INFO  by.petushokilya.entity.Truck -Truck 5,state Terminate
+2022-04--06 18:17:11 [pool-2-thread-8] INFO  by.petushokilya.entity.Base -Truck 9,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number8,state Runnable
+2022-04--06 18:17:11 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck number 8 come to load.
+2022-04--06 18:17:11 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number9,state Runnable
+2022-04--06 18:17:11 [pool-2-thread-9] INFO  by.petushokilya.entity.Base -Truck 10,state Waiting
+2022-04--06 18:17:11 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck number 9 come to load.
+2022-04--06 18:17:11 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:14 [pool-2-thread-6] INFO  by.petushokilya.entity.Truck -Truck 7,state Terminate
+2022-04--06 18:17:14 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number10,state Runnable
+2022-04--06 18:17:14 [pool-2-thread-10] INFO  by.petushokilya.entity.Base -Truck 11,state Waiting
+2022-04--06 18:17:14 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck number 10 come to unload.
+2022-04--06 18:17:14 [pool-2-thread-8] INFO  by.petushokilya.entity.Truck -Truck 9,state Terminate
+2022-04--06 18:17:14 [pool-2-thread-7] INFO  by.petushokilya.entity.Truck -Truck 8,state Terminate
+2022-04--06 18:17:14 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number11,state Runnable
+2022-04--06 18:17:14 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck number 11 come to unload.
+2022-04--06 18:17:17 [pool-2-thread-9] INFO  by.petushokilya.entity.Truck -Truck 10,state Terminate
+2022-04--06 18:17:17 [pool-2-thread-10] INFO  by.petushokilya.entity.Truck -Truck 11,state Terminate
