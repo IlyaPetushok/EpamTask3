@@ -41,32 +41,12 @@ public class Truck implements Runnable {
         return idTruck;
     }
 
-    public void setIdTruck(int idTruck) {
-        this.idTruck = idTruck;
-    }
-
-    public int getCapacity() {
-        return capacity;
-    }
-
-    public void setCapacity(int capacity) {
-        this.capacity = capacity;
-    }
-
     public State getState() {
         return state;
     }
 
     public void setState(State state) {
         this.state = state;
-    }
-
-    public int isOccupationCapacity() {
-        return occupationCapacity;
-    }
-
-    public void setOccupationCapacity(int occupationCapacity) {
-        this.occupationCapacity = occupationCapacity;
     }
 
     @Override
@@ -101,12 +81,12 @@ public class Truck implements Runnable {
         quantityForLoad = this.capacity - this.occupationCapacity;
         base.getQuantityProductOnBase().getAndAdd(-quantityForLoad);
         logger.info("Truck number " + this.idTruck + " come to load.");
-        TimeUnit.SECONDS.sleep(3);
+        TimeUnit.SECONDS.sleep(5);
     }
 
     private void unload(Base base) throws InterruptedException {
         base.getQuantityProductOnBase().getAndAdd(this.occupationCapacity);
         logger.info("Truck number " + this.idTruck + " come to unload.");
-        TimeUnit.SECONDS.sleep(3);
+        TimeUnit.SECONDS.sleep(10);
     }
 }
