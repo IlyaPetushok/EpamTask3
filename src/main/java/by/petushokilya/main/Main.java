@@ -21,5 +21,6 @@ public class Main {
         for(int i=0;i<QUANTITY;i++){
             executorService.execute(listTrucks.get(i));
         }
+        executorService.shutdown();
     }
 }
