@@ -24,6 +24,7 @@ public class Base {
     private final Deque<Terminal> freeTerminals;
     private AtomicInteger quantityProductOnBase;
 
+
     public AtomicInteger getQuantityProductOnBase() {
         return quantityProductOnBase;
     }

@@ -24,7 +24,6 @@ public class Truck implements Runnable {
 
     {
         idTruck = GeneratorId.generatorIdTruck();
-        isLoad = random.nextBoolean();
         state = State.New;
         logger.info("Truck number " + this.idTruck + ", state " + this.state);
     }
@@ -32,9 +31,10 @@ public class Truck implements Runnable {
     public Truck() {
     }
 
-    public Truck(int capacity, int occupationCapacity) {
+    public Truck(int capacity, int occupationCapacity,boolean isLoad) {
         this.capacity = capacity;
         this.occupationCapacity = occupationCapacity;
+        this.isLoad=isLoad;
     }
 
     public int getIdTruck() {
@@ -79,6 +79,7 @@ public class Truck implements Runnable {
         } catch (InterruptedException exception) {
             logger.error("Mistake method run" + exception);
         } finally {
+            logger.info("Terminal number"+terminal.getId()+" free");
             base.realizedTerminal(terminal);
         }
     }
